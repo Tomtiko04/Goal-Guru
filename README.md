@@ -13,7 +13,6 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
   - [Continued development](#Continued-development)
 - [Author](#author)
 
-
 ## Overview
 
 GoalGuru is an intuitive and engaging task management application designed to help users efficiently manage and achieve their goals. With a sleek and modern interface, GoalGuru offers a streamlined approach to organizing daily tasks
@@ -34,9 +33,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./src/assest/1.jpeg)
-![]./src/assest/2.jpeg
-
-
+![](./src/assest/2.jpeg)
 
 ### Links
 
@@ -58,7 +55,6 @@ Users should be able to:
 - Mobile-first workflow
 - [Vue](https://vuejs.org/) - JS library
 
-
 ### Continued development
 
 - Mobile App Development
@@ -67,14 +63,12 @@ Users should be able to:
 - AI-Powered Task Suggestions
 - Integration with Third-Party Apps
 
-
 ## Author
 
 - Website - [Goal Guru](https://goal-guru.vercel.app/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Tomtiko04)
 
-
-## Starting Guide 
+## Setup Guide 
 
 This template should help get you started developing with Vue 3 in Vite.
 
