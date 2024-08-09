@@ -65,8 +65,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Goal Guru](https://goal-guru.vercel.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Tomtiko04)
+-  Email - [Email](ogunneyeoyinkansola@gmail.com)
+- Frontend Mentor - [@Tomtiko04](https://www.frontendmentor.io/profile/Tomtiko04)
 
 ## Setup Guide 
 
