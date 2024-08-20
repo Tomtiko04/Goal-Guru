@@ -65,7 +65,7 @@ Users should be able to:
 
 ## Author
 
--  Email - [Email](ogunneyeoyinkansola@gmail.com)
+- Email - [Email](ogunneyeoyinkansola@gmail.com)
 - Frontend Mentor - [@Tomtiko04](https://www.frontendmentor.io/profile/Tomtiko04)
 
 ## Setup Guide 
