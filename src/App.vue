@@ -13,9 +13,7 @@ import InputTask from "@/component/InputTask.vue";
 import TaskList from "@/component/Tasks.vue";
 
 const storedTasks = localStorage.getItem('tasksData');
-const tasksData = ref(storedTasks ? JSON.parse(storedTasks) : [{
-  id: 1, task: "working", completed: false,
-}]);
+const tasksData = ref(storedTasks ? JSON.parse(storedTasks) : []);
 
 const theme = ref(true);
 
